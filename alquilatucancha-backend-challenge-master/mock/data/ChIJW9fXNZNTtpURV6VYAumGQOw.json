@@ -1,0 +1,2536 @@
+{
+  "data": [
+    {
+      "id": 166,
+      "permalink": "loyal-rosario",
+      "name": "Loyal Chacabuco ",
+      "logo": "loyal-rosario.png?158905",
+      "logo_url": "http://beta.alquilatucancha.com/uploads/clubs/loyal-rosario.png?158905",
+      "background": "loyal-rosario.jpeg?313414",
+      "background_url": "http://beta.alquilatucancha.com/uploads/clubs/bg/loyal-rosario.jpeg?313414",
+      "location": {
+        "name": "Chacabuco 1939",
+        "city": "Rosario",
+        "lat": "-32.9630067",
+        "lng": "-60.6262701"
+      },
+      "zone": {
+        "id": 20,
+        "name": "Rosario",
+        "full_name": "Rosario, Santa Fe, Argentina",
+        "placeid": "ChIJW9fXNZNTtpURV6VYAumGQOw",
+        "country": { "id": 1, "name": "Argentina", "iso_code": "ar" }
+      },
+      "props": {
+        "sponsor": false,
+        "favorite": false,
+        "stars": "5.00",
+        "payment": false
+      },
+      "attributes": ["showers", "parking", "grill"],
+      "openhours": [
+        { "day_of_week": 6, "open_time": 9, "close_time": 24, "open": true }
+      ],
+      "courts": [
+        {
+          "id": 733,
+          "name": "Cancha 1",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 733, "sport_id": 2, "enabled": 1 }
+            },
+            {
+              "id": 15,
+              "parent_id": 1,
+              "name": "FOOTBALL6",
+              "players_max": 12,
+              "order": 1,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football6.png",
+              "pivot": { "court_id": 733, "sport_id": 15, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 09:00",
+              "start": "09:00",
+              "end": "10:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 734,
+          "name": "Cancha 2",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 734, "sport_id": 2, "enabled": 1 }
+            },
+            {
+              "id": 15,
+              "parent_id": 1,
+              "name": "FOOTBALL6",
+              "players_max": 12,
+              "order": 1,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football6.png",
+              "pivot": { "court_id": 734, "sport_id": 15, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 09:00",
+              "start": "09:00",
+              "end": "10:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 735,
+          "name": "Cancha 3",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 735, "sport_id": 2, "enabled": 1 }
+            },
+            {
+              "id": 15,
+              "parent_id": 1,
+              "name": "FOOTBALL6",
+              "players_max": 12,
+              "order": 1,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football6.png",
+              "pivot": { "court_id": 735, "sport_id": 15, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 10:30",
+              "start": "10:30",
+              "end": "11:30",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 11:30",
+              "start": "11:30",
+              "end": "12:30",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 12:30",
+              "start": "12:30",
+              "end": "13:30",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 13:30",
+              "start": "13:30",
+              "end": "14:30",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 14:30",
+              "start": "14:30",
+              "end": "15:30",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 15:30",
+              "start": "15:30",
+              "end": "16:30",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 16:30",
+              "start": "16:30",
+              "end": "17:30",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:30",
+              "start": "21:30",
+              "end": "22:30",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:30",
+              "start": "22:30",
+              "end": "23:30",
+              "_priority": 0
+            }
+          ]
+        }
+      ],
+      "_priority": 1
+    },
+    {
+      "id": 555,
+      "permalink": "balon-pie-rosario",
+      "name": "Balon Pie",
+      "logo": "balon-pie-rosario.png?738953",
+      "logo_url": "http://beta.alquilatucancha.com/uploads/clubs/balon-pie-rosario.png?738953",
+      "background": "balon-pie-rosario.jpeg?384127",
+      "background_url": "http://beta.alquilatucancha.com/uploads/clubs/bg/balon-pie-rosario.jpeg?384127",
+      "location": {
+        "name": "Rouillon 1138",
+        "city": "Rosario",
+        "lat": "-32.9416386",
+        "lng": "-60.7022284"
+      },
+      "zone": {
+        "id": 20,
+        "name": "Rosario",
+        "full_name": "Rosario, Santa Fe, Argentina",
+        "placeid": "ChIJW9fXNZNTtpURV6VYAumGQOw",
+        "country": { "id": 1, "name": "Argentina", "iso_code": "ar" }
+      },
+      "props": {
+        "sponsor": false,
+        "favorite": false,
+        "stars": "5.00",
+        "payment": false
+      },
+      "attributes": ["showers", "grill"],
+      "openhours": [
+        { "day_of_week": 6, "open_time": 8, "close_time": 25, "open": true }
+      ],
+      "courts": [
+        {
+          "id": 1707,
+          "name": "FUTBOL 5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1707, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 08:00",
+              "start": "08:00",
+              "end": "09:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 09:00",
+              "start": "09:00",
+              "end": "10:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 09:30",
+              "start": "09:30",
+              "end": "10:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:30",
+              "start": "10:30",
+              "end": "11:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:30",
+              "start": "11:30",
+              "end": "12:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:30",
+              "start": "12:30",
+              "end": "13:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:30",
+              "start": "13:30",
+              "end": "14:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:30",
+              "start": "14:30",
+              "end": "15:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:30",
+              "start": "15:30",
+              "end": "16:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:30",
+              "start": "16:30",
+              "end": "17:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:30",
+              "start": "17:30",
+              "end": "18:30",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:30",
+              "start": "18:30",
+              "end": "19:30",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:30",
+              "start": "19:30",
+              "end": "20:30",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:30",
+              "start": "20:30",
+              "end": "21:30",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:30",
+              "start": "21:30",
+              "end": "22:30",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:30",
+              "start": "22:30",
+              "end": "23:30",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:30",
+              "start": "23:30",
+              "end": "00:30",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-21 00:00",
+              "start": "00:00",
+              "end": "01:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 1708,
+          "name": "CANCHA SOCCER",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1708, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 08:00",
+              "start": "08:00",
+              "end": "09:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 09:00",
+              "start": "09:00",
+              "end": "10:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 09:30",
+              "start": "09:30",
+              "end": "10:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:30",
+              "start": "10:30",
+              "end": "11:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:30",
+              "start": "11:30",
+              "end": "12:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:30",
+              "start": "12:30",
+              "end": "13:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:30",
+              "start": "13:30",
+              "end": "14:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:30",
+              "start": "14:30",
+              "end": "15:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:30",
+              "start": "15:30",
+              "end": "16:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:30",
+              "start": "16:30",
+              "end": "17:30",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:30",
+              "start": "17:30",
+              "end": "18:30",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 18:30",
+              "start": "18:30",
+              "end": "19:30",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 19:30",
+              "start": "19:30",
+              "end": "20:30",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 20:30",
+              "start": "20:30",
+              "end": "21:30",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 2800,
+              "duration": 60,
+              "datetime": "2022-08-20 21:30",
+              "start": "21:30",
+              "end": "22:30",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:30",
+              "start": "22:30",
+              "end": "23:30",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:30",
+              "start": "23:30",
+              "end": "00:30",
+              "_priority": 0
+            },
+            {
+              "price": 2000,
+              "duration": 60,
+              "datetime": "2022-08-21 00:00",
+              "start": "00:00",
+              "end": "01:00",
+              "_priority": 0
+            }
+          ]
+        }
+      ],
+      "_priority": 1
+    },
+    {
+      "id": 679,
+      "permalink": "galpon-futbol-rosario",
+      "name": "El Galp\u00f3n Futbol 5",
+      "logo": "galpon-futbol-rosario.png?430498",
+      "logo_url": "http://beta.alquilatucancha.com/uploads/clubs/galpon-futbol-rosario.png?430498",
+      "background": "galpon-futbol-rosario.jpeg?700577",
+      "background_url": "http://beta.alquilatucancha.com/uploads/clubs/bg/galpon-futbol-rosario.jpeg?700577",
+      "location": {
+        "name": "Garay 5770, Rosario, Santa Fe",
+        "city": "Rosario",
+        "lat": "-32.9658686",
+        "lng": "-60.7007474"
+      },
+      "zone": {
+        "id": 20,
+        "name": "Rosario",
+        "full_name": "Rosario, Santa Fe, Argentina",
+        "placeid": "ChIJW9fXNZNTtpURV6VYAumGQOw",
+        "country": { "id": 1, "name": "Argentina", "iso_code": "ar" }
+      },
+      "props": {
+        "sponsor": false,
+        "favorite": false,
+        "stars": "5.00",
+        "payment": false
+      },
+      "attributes": ["showers", "parking", "grill"],
+      "openhours": [
+        { "day_of_week": 6, "open_time": 15, "close_time": 24, "open": true }
+      ],
+      "courts": [
+        {
+          "id": 2196,
+          "name": "Cancha F\u00fatbol 5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 2196, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 2500,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            }
+          ]
+        }
+      ],
+      "_priority": 1
+    },
+    {
+      "id": 643,
+      "permalink": "euro-gol-rosario",
+      "name": "Euro Gol",
+      "logo": "euro-gol-rosario.png?517397",
+      "logo_url": "http://beta.alquilatucancha.com/uploads/clubs/euro-gol-rosario.png?517397",
+      "background": "euro-gol-rosario.jpeg?791571",
+      "background_url": "http://beta.alquilatucancha.com/uploads/clubs/bg/euro-gol-rosario.jpeg?791571",
+      "location": {
+        "name": "Francia 1040",
+        "city": "Rosario",
+        "lat": "-32.9447700",
+        "lng": "-60.6665355"
+      },
+      "zone": {
+        "id": 20,
+        "name": "Rosario",
+        "full_name": "Rosario, Santa Fe, Argentina",
+        "placeid": "ChIJW9fXNZNTtpURV6VYAumGQOw",
+        "country": { "id": 1, "name": "Argentina", "iso_code": "ar" }
+      },
+      "props": {
+        "sponsor": false,
+        "favorite": false,
+        "stars": "5.00",
+        "payment": false
+      },
+      "attributes": ["showers", "grill"],
+      "openhours": [
+        { "day_of_week": 6, "open_time": 10, "close_time": 23, "open": true }
+      ],
+      "courts": [
+        {
+          "id": 2002,
+          "name": "Cancha 1",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 2002, "sport_id": 2, "enabled": 1 }
+            },
+            {
+              "id": 12,
+              "parent_id": null,
+              "name": "HOCKEY",
+              "players_max": 10,
+              "order": 13,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "hockey.png",
+              "pivot": { "court_id": 2002, "sport_id": 12, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 2003,
+          "name": "Cancha 2",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": false,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 2003, "sport_id": 2, "enabled": 1 }
+            },
+            {
+              "id": 12,
+              "parent_id": null,
+              "name": "HOCKEY",
+              "players_max": 10,
+              "order": 13,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "hockey.png",
+              "pivot": { "court_id": 2003, "sport_id": 12, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 3500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            }
+          ]
+        }
+      ],
+      "_priority": 1
+    },
+    {
+      "id": 623,
+      "permalink": "area-moby-funes",
+      "name": "\u00c1rea Moby",
+      "logo": "area-moby-funes.png?970033",
+      "logo_url": "http://beta.alquilatucancha.com/uploads/clubs/area-moby-funes.png?970033",
+      "background": "",
+      "background_url": "http://beta.alquilatucancha.com/uploads/clubs/bg/bg_default.jpeg",
+      "location": {
+        "name": "San Mart\u00edn 2138 bis, Funes",
+        "city": "Santa Fe",
+        "lat": "-32.9246231",
+        "lng": "-60.7657345"
+      },
+      "zone": {
+        "id": 22,
+        "name": "Santa Fe",
+        "full_name": "Santa Fe, Provincia de Santa Fe, Argentina",
+        "placeid": "ChIJ4YgIxK2ptZURSoACjR5299w",
+        "country": { "id": 1, "name": "Argentina", "iso_code": "ar" }
+      },
+      "props": {
+        "sponsor": false,
+        "favorite": false,
+        "stars": "5.00",
+        "payment": false
+      },
+      "attributes": ["showers", "parking", "grill"],
+      "openhours": [
+        { "day_of_week": 6, "open_time": 10, "close_time": 20, "open": true }
+      ],
+      "courts": [
+        {
+          "id": 1938,
+          "name": "Cancha 1 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": false,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1938, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 1939,
+          "name": "Cancha 2 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": false,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1939, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 1940,
+          "name": "Cancha 3 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": false,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1940, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 1941,
+          "name": "Cancha 4 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": false,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1941, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 4500,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            }
+          ]
+        }
+      ],
+      "_priority": 1
+    },
+    {
+      "id": 598,
+      "permalink": "loyal-m40-rosario",
+      "name": "Loyal Montevideo",
+      "logo": "loyal-m40-rosario.png?517341",
+      "logo_url": "http://beta.alquilatucancha.com/uploads/clubs/loyal-m40-rosario.png?517341",
+      "background": "loyal-m40-rosario.jpeg?812998",
+      "background_url": "http://beta.alquilatucancha.com/uploads/clubs/bg/loyal-m40-rosario.jpeg?812998",
+      "location": {
+        "name": "Montevideo 40, Rosario, Argentina",
+        "city": "Rosario",
+        "lat": "-32.9586770",
+        "lng": "-60.6257385"
+      },
+      "zone": {
+        "id": 20,
+        "name": "Rosario",
+        "full_name": "Rosario, Santa Fe, Argentina",
+        "placeid": "ChIJW9fXNZNTtpURV6VYAumGQOw",
+        "country": { "id": 1, "name": "Argentina", "iso_code": "ar" }
+      },
+      "props": {
+        "sponsor": false,
+        "favorite": false,
+        "stars": "5.00",
+        "payment": false
+      },
+      "attributes": ["showers", "grill"],
+      "openhours": [
+        { "day_of_week": 6, "open_time": 8, "close_time": 24, "open": true }
+      ],
+      "courts": [
+        {
+          "id": 1840,
+          "name": "Cancha 1 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1840, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 08:00",
+              "start": "08:00",
+              "end": "09:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 09:00",
+              "start": "09:00",
+              "end": "10:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 1841,
+          "name": "Cancha 2 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": true,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1841, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 08:00",
+              "start": "08:00",
+              "end": "09:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 09:00",
+              "start": "09:00",
+              "end": "10:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 10:00",
+              "start": "10:00",
+              "end": "11:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 4000,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 5000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            }
+          ]
+        }
+      ],
+      "_priority": 1
+    },
+    {
+      "id": 578,
+      "permalink": "ultras-norte-rosario",
+      "name": "Ultras Norte",
+      "logo": "ultras-norte-rosario.png?136197",
+      "logo_url": "http://beta.alquilatucancha.com/uploads/clubs/ultras-norte-rosario.png?136197",
+      "background": "ultras-norte-rosario.jpeg?155302",
+      "background_url": "http://beta.alquilatucancha.com/uploads/clubs/bg/ultras-norte-rosario.jpeg?155302",
+      "location": {
+        "name": "Avenida de los granaderos 2594",
+        "city": "Rosario",
+        "lat": "-32.8896421",
+        "lng": "-60.7085265"
+      },
+      "zone": {
+        "id": 20,
+        "name": "Rosario",
+        "full_name": "Rosario, Santa Fe, Argentina",
+        "placeid": "ChIJW9fXNZNTtpURV6VYAumGQOw",
+        "country": { "id": 1, "name": "Argentina", "iso_code": "ar" }
+      },
+      "props": {
+        "sponsor": false,
+        "favorite": false,
+        "stars": "5.00",
+        "payment": false
+      },
+      "attributes": ["showers", "grill"],
+      "openhours": [
+        { "day_of_week": 6, "open_time": 11, "close_time": 24, "open": true }
+      ],
+      "courts": [
+        {
+          "id": 1785,
+          "name": "Cancha 1 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": false,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1785, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            }
+          ]
+        },
+        {
+          "id": 1786,
+          "name": "Cancha 2 F5",
+          "attributes": {
+            "floor": "synthetic",
+            "light": true,
+            "roofed": false,
+            "beelup": false
+          },
+          "sports": [
+            {
+              "id": 2,
+              "parent_id": 1,
+              "name": "FOOTBALL5",
+              "players_max": 10,
+              "order": 0,
+              "default_duration": 60,
+              "divisible_duration": 30,
+              "icon": "football5.png",
+              "pivot": { "court_id": 1786, "sport_id": 2, "enabled": 1 }
+            }
+          ],
+          "available": [
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 11:00",
+              "start": "11:00",
+              "end": "12:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 12:00",
+              "start": "12:00",
+              "end": "13:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 13:00",
+              "start": "13:00",
+              "end": "14:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 14:00",
+              "start": "14:00",
+              "end": "15:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 15:00",
+              "start": "15:00",
+              "end": "16:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 16:00",
+              "start": "16:00",
+              "end": "17:00",
+              "_priority": 0
+            },
+            {
+              "price": 2600,
+              "duration": 60,
+              "datetime": "2022-08-20 17:00",
+              "start": "17:00",
+              "end": "18:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 18:00",
+              "start": "18:00",
+              "end": "19:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 19:00",
+              "start": "19:00",
+              "end": "20:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 20:00",
+              "start": "20:00",
+              "end": "21:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 21:00",
+              "start": "21:00",
+              "end": "22:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 22:00",
+              "start": "22:00",
+              "end": "23:00",
+              "_priority": 0
+            },
+            {
+              "price": 3000,
+              "duration": 60,
+              "datetime": "2022-08-20 23:00",
+              "start": "23:00",
+              "end": "00:00",
+              "_priority": 0
+            }
+          ]
+        }
+      ],
+      "_priority": 1
+    }
+  ]
+}
